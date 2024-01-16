@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Assets.Database", "Assets.Database.sqlproj", "{837785BF-E932-45E8-A8E5-C08C32A3387C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorClassLibrary1", "RazorClassLibrary1\RazorClassLibrary1.csproj", "{00C789E2-C3F1-4719-AABB-17BFDDC49D70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{837785BF-E932-45E8-A8E5-C08C32A3387C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{837785BF-E932-45E8-A8E5-C08C32A3387C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{837785BF-E932-45E8-A8E5-C08C32A3387C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{00C789E2-C3F1-4719-AABB-17BFDDC49D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C789E2-C3F1-4719-AABB-17BFDDC49D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C789E2-C3F1-4719-AABB-17BFDDC49D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C789E2-C3F1-4719-AABB-17BFDDC49D70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
